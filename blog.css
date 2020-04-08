@@ -1,0 +1,90 @@
+
+body {
+    font-family:  Helvetica, sans-serif;
+    background-color: lightblue;
+}
+h1{text-align: center;
+    color: navy;
+
+   
+}
+.boxes { 
+    font-weight: bold;
+    color: navy;
+    position: relative;
+    left:600px;
+    width: 360px; height: 70px;
+    border: 3px solid coral;
+    border-radius: 5px;   
+
+}
+p {
+    text-align: center;
+    color: black 
+    font-weight: bold;
+ }
+
+.nickname{
+text-align: center;
+border: 3px none gray;
+position: relative;
+top:200px;
+left:600px;
+right:200px;
+
+width:400px;
+height:30px;
+border: 2px solid gray;
+border-radius: 8px;
+
+font-family: Helvetica;
+font-weight: bold;
+}
+
+
+.image{
+    font-weight:bold;
+    font-family: Helvetica;
+    border: 3px solid cornflowerblue;
+    border-radius: 5px;
+    position: relative;
+    display: inline-block;
+    top:250px;
+    left:450px;  
+    margin: 0 auto;
+    width: 700px; 
+}
+
+.friend{
+    font-weight:bold;
+    font-family: Helvetica;
+    border: 3px solid black;
+    border-radius: 5px;
+    position: relative;
+    display: inline-block;
+    top:300px;
+    right: 260px;
+    
+    margin: 0 auto;
+    width: 700px; 
+    
+}
+
+.conclusion{
+    font-weight:bold;
+    font-family: Helvetica;
+    position: relative;
+    display: inline-block;
+    top:400px;
+    right:800px;  
+    margin: 0 auto;
+    width: 700px; 
+}
+
+.dot{position: relative;
+    display: inline-block;
+    top: 400px;
+    left: 250px;  
+    margin: 0 auto;
+    width: 700px; 
+}
